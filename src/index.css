@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto Condensed', sans-serif;
+  background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/f524f268499495.5b5f60aac23cc.jpg");
+  height: 100;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #0f0f0f;
+}
