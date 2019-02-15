@@ -14,6 +14,7 @@
   -ms-filter: blur(6px);
   -o-filter: blur(6px);
   backdrop-filter: blur(6px);
+  position: fixed;
   top: 0;
   z-index: 1000;
 }
